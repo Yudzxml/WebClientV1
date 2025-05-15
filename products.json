@@ -17,7 +17,12 @@
   {
     "nama": "RESELLER PANEL PRIVATE",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "paket": [],
+    "paket": [
+      {
+        "name": "HARGA JOIN PERTAMA KALI 20K WAJIB BAYAR 5K PERBULAN SETELAH JOIN",
+        "harga": 20000
+      }
+    ],
     "harga": 20000
   },
   {
