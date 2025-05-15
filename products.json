@@ -115,30 +115,32 @@
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/689488a3.jpg",
     "paket": [
       {
-        "name": "NAMAKAMU.MY.ID ( 1 TAHUN )",
+        "name": "NAMAKAMU.MY.ID",
         "harga": 35000
       },
       {
-        "name": "NAMAKAMU.BIZ.ID ( 1 TAHUN )",
+        "name": "NAMAKAMU.BIZ.ID",
         "harga": 35000
       },
       {
-        "name": "NAMAKAMU.CYOU ( 1 TAHUN )",
+        "name": "NAMAKAMU.CYOU",
         "harga": 35000
       },
       {
-        "name": "NAMAKAMU.STORE ( 1 TAHUN )",
+        "name": "NAMAKAMU.STORE",
         "harga": 55000
       },
       {
-        "name": "NAMAKAMU.CLOUD ( 1 TAHUN )",
+        "name": "NAMAKAMU.CLOUD",
         "harga": 35000
       },
       {
-        "name": "NAMAKAMU.XYZ ( 1 TAHUN )",
+        "name": "NAMAKAMU.XYZ",
         "harga": 35000
       }
-    ]
+    ],
+    "harga": "",
+    "desc": "GARANSI ON 3 BULAN SUDAH TERHUBUNG KE CF LANGSUNG SIAP PAKAI KETENTUAN LAINNYA LANGSUNG HUBUNGI ADMIN"
   },
   {
     "nama": "JASA TAMBAH/FIX FITUR BOT",
