@@ -4,14 +4,15 @@
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
     "paket": [
       {
-        "name": "Pack 1 - Free Rename, Update, Fix, Panel, APIKey, 100 No Enc",
-        "harga": 35000
+        "name": "Pack 1",
+        "harga": 10035000
       },
       {
-        "name": "Pack 2 - No APIKey, No Update, No Panel, Free Rename, Fix, 100% No Enc",
-        "harga": 25000
+        "name": "Pack 2",
+        "harga": 10025000
       }
-    ]
+    ],
+    "harga": 35000
   },
   {
     "nama": "RESELLER PANEL PRIVATE",
@@ -152,16 +153,16 @@
     "harga": "5000",
     "paket": [
       {
-      "name": "1 FITUR",
-      "harga": 5000
+        "name": "1 FITUR",
+        "harga": 5000
       },
       {
-      "name": "2 FITUR",
-      "harga": 10000
+        "name": "2 FITUR",
+        "harga": 10000
       },
       {
-      "name": "3 FITUR ( FREE 1 FITUR )",
-      "harga": 15000
+        "name": "3 FITUR ( FREE 1 FITUR )",
+        "harga": 15000
       }
     ]
   }
