@@ -150,14 +150,9 @@
     "nama": "JASA TAMBAH/FIX FITUR BOT",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/87a8c806.jpg",
     "paket": [
-      {
-        "name": "1 FITUR",
-        "harga": 5000
-      },
-      {
-        "name": "3 FITUR ( FREE 1 FITUR )",
-        "harga": 15000
-      }
-    ]
+      "1 FITUR:5000",
+      "3 FITUR ( FREE 1 FITUR ):15000"
+    ],
+    "harga": "5000"
   }
 ]
