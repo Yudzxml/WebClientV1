@@ -41,7 +41,13 @@
   {
     "nama": "PANEL PTERODACTYL",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "harga": 12000
+    "harga": 12000,
+    "paket": [
+      {
+        "name": "RAM UNLI DAN CPU UNLI",
+        "harga": 12000
+      }
+    ]
   },
   {
     "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
