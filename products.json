@@ -46,32 +46,104 @@
     "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
     "paket": [
-      { "name": "RAM 1GB CPU 1", "harga": 20000 },
-      { "name": "RAM 2GB CPU 1", "harga": 25000 },
-      { "name": "RAM 2GB CPU 2", "harga": 30000 },
-      { "name": "RAM 4GB CPU 2", "harga": 45000 },
-      { "name": "RAM 8GB CPU 4", "harga": 65000 },
-      { "name": "RAM 16GB CPU 4", "harga": 75000 }
+      {
+        "name": "RAM 1GB CPU 1",
+        "harga": 20000
+      },
+      {
+        "name": "RAM 2GB CPU 1",
+        "harga": 25000
+      },
+      {
+        "name": "RAM 2GB CPU 2",
+        "harga": 30000
+      },
+      {
+        "name": "RAM 4GB CPU 2",
+        "harga": 45000
+      },
+      {
+        "name": "RAM 8GB CPU 4",
+        "harga": 65000
+      },
+      {
+        "name": "RAM 16GB CPU 4",
+        "harga": 75000
+      }
     ]
   },
   {
     "nama": "VPS DIGITAL OCEAN ( TUNNELING )",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
     "paket": [
-      { "name": "RAM 1GB CPU 1 1TB", "harga": 35000 },
-      { "name": "RAM 2GB CPU 1 2TB", "harga": 40000 },
-      { "name": "RAM 4GB CPU 2 4TB", "harga": 65000 },
-      { "name": "RAM 8GB CPU 4 5TB", "harga": 80000 }
+      {
+        "name": "RAM 1GB CPU 1 1TB",
+        "harga": 35000
+      },
+      {
+        "name": "RAM 2GB CPU 1 2TB",
+        "harga": 40000
+      },
+      {
+        "name": "RAM 4GB CPU 2 4TB",
+        "harga": 65000
+      },
+      {
+        "name": "RAM 8GB CPU 4 5TB",
+        "harga": 80000
+      }
     ]
   },
   {
     "nama": "SEWABOT X7BOTZ - MD",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
     "paket": [
-      { "name": "10 Hari", "harga": 5000 },
-      { "name": "1 Bulan", "harga": 15000 },
-      { "name": "2 Bulan", "harga": 30000 },
-      { "name": "Permanen", "harga": 70000 }
+      {
+        "name": "10 Hari",
+        "harga": 5000
+      },
+      {
+        "name": "1 Bulan",
+        "harga": 15000
+      },
+      {
+        "name": "2 Bulan",
+        "harga": 30000
+      },
+      {
+        "name": "Permanen",
+        "harga": 70000
+      }
+    ]
+  },
+  {
+    "nama": "DOMAIN MURMER",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/689488a3.jpg",
+    "paket": [
+      {
+        "name": "NAMAKAMU.MY.ID ( 1 TAHUN )",
+        "harga": 35000
+      },
+      {
+        "name": "NAMAKAMU.BIZ.ID ( 1 TAHUN )",
+        "harga": 35000
+      },
+      {
+        "name": "NAMAKAMU.CYOU ( 1 TAHUN )",
+        "harga": 35000
+      },
+      {
+        "name": "NAMAKAMU.STORE ( 1 TAHUN )",
+        "harga": 55000
+      },
+      {
+        "name": "NAMAKAMU.CLOUD ( 1 TAHUN )",
+        "harga": 35000
+      },
+      {
+        "name": "NAMAKAMU.XYZ ( 1 TAHUN )",
+        "harga": 35000
+      }
     ]
   }
 ]
