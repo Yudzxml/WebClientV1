@@ -145,20 +145,8 @@
   {
     "nama": "JASA TAMBAH/FIX FITUR BOT",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/72fc871f.jpg",
-    "harga": "5000",
-    "paket": [
-      {
-        "name": "1 FITUR",
-        "harga": 5000
-      },
-      {
-        "name": "2 FITUR",
-        "harga": 10000
-      },
-      {
-        "name": "3 FITUR ( FREE 1 FITUR )",
-        "harga": 15000
-      }
-    ]
+    "harga": 5000,
+    "paket": [],
+    "desc": "1 FITUR 5K JADI HITUNG AJA MAU BRPA FITUR YG DI FIX ATAU TAMBAH HARGA BISA BERUBAH-UBAH TERGANTUNG KESULITANNYA"
   }
 ]
