@@ -64,7 +64,9 @@
         "name": "RAM 16GB CPU 4",
         "harga": 75000
       }
-    ]
+    ],
+    "harga": "",
+    "desc": "KETENTUAN BISA LANGSUNG CHAT ADMIN"
   },
   {
     "nama": "VPS DIGITAL OCEAN ( TUNNELING )",
