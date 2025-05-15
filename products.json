@@ -4,15 +4,16 @@
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
     "paket": [
       {
-        "name": "PACK 1 ( BENEFIT CHAT OWNER )",
+        "name": "PACK 1",
         "harga": 35000
       },
       {
-        "name": "PACK 2 ( BENEFIT CHAT OWNER )",
+        "name": "PACK 2",
         "harga": 25000
       }
     ],
-    "harga": 35000
+    "harga": 35000,
+    "desc": "PACK 1 LIST \n• FREE APIKEY\n• FREE RENAME\n• FREE UPDATE\n• FREE FIX\n• FREE ACCESS 2 NOMOR\n• FREE PANEL 1 BULAN\n• DISKON PERPANJANGAN PANEL \n• 100% NO ENC\n\nPACK 2 LIST\n• NO APIKEY\n• NO UPDATE\n• NO PANEL \n• FREE RENAME\n• FREE FIX\n• FREE ADD ACCESS 2 NOMOR\n• 100% NO ENC"
   },
   {
     "nama": "RESELLER PANEL PRIVATE",
