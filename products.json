@@ -25,12 +25,9 @@
   {
     "nama": "ALIGHT MOTION PREMIUM",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/b893f315.jpg",
-    "paket": [
-      {
-        "name": "1 Tahun Private (Garansi 3 bulan)",
-        "harga": 7000
-      }
-    ]
+    "paket": [],
+    "harga": 8000,
+    "desc": "MASA AKTIF 1 TAHUN WAJIB BAWA GMAIL FRESH/BARU, GARANSI 3 BULAN SILAHKAN DI ORDER"
   },
   {
     "nama": "PANEL PTERODACTYL",
