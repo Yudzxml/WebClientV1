@@ -17,16 +17,8 @@
   {
     "nama": "RESELLER PANEL PRIVATE",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "paket": [
-      {
-        "name": "Paket Bulanan",
-        "harga": 20000
-      },
-      {
-        "name": "Bayar Per Bulan",
-        "harga": 5000
-      }
-    ]
+    "paket": [],
+    "harga": 20000
   },
   {
     "nama": "ALIGHT MOTION PREMIUM",
