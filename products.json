@@ -33,12 +33,8 @@
     "nama": "PANEL PTERODACTYL",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
     "harga": 12000,
-    "paket": [
-      {
-        "name": "RAM UNLI DAN CPU UNLI",
-        "harga": 12000
-      }
-    ]
+    "paket": [],
+    "desc": "STOK HANYA RAM UNLI DAN CPU UNLI GARANSI ON 1 SATU BULAN SERVER KENCANG KARNA MENGGUNAKAN VPS BERKUALITAS"
   },
   {
     "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
