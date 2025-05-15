@@ -18,13 +18,9 @@
   {
     "nama": "RESELLER PANEL PRIVATE",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "paket": [
-      {
-        "name": "HARGA JOIN PERTAMA KALI 20K WAJIB BAYAR 5K PERBULAN SETELAH JOIN",
-        "harga": 20000
-      }
-    ],
-    "harga": 20000
+    "paket": [],
+    "harga": 20000,
+    "desc": "HARGA JOIN PERTAMA KALI BAYAR 20K UNTUK PERBULAN WAJIB BAYAR 7K UNTUK PERPANJANGAN MASA RESELLER"
   },
   {
     "nama": "ALIGHT MOTION PREMIUM",
