@@ -93,22 +93,24 @@
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
     "paket": [
       {
-        "name": "10 Hari",
+        "name": "10 HARI",
         "harga": 5000
       },
       {
-        "name": "1 Bulan",
+        "name": "1 BULAN",
         "harga": 15000
       },
       {
-        "name": "2 Bulan",
+        "name": "2 BULAN",
         "harga": 30000
       },
       {
-        "name": "Permanen",
+        "name": "PERMANEN",
         "harga": 70000
       }
-    ]
+    ],
+    "harga": "",
+    "desc": "SEWABOT HANYA UNTUK SATU GRUP SAJA, MENDAPATKAN AKSES PREMIUM GRATIS JIKA ORDER 1 BULAN, FITUR 800+ COCOK BUAT JUALAN ATAUPUN UNTUK GRUP FUN BARENG TEMEN"
   },
   {
     "nama": "DOMAIN MURMER",
