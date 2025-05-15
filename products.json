@@ -151,7 +151,18 @@
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/72fc871f.jpg",
     "harga": "5000",
     "paket": [
-      "1 FITUR - 5000\n2 FITUR - 10000\n3 FITUR ( FREE 1 FITUR ) - 15000"
+      {
+      "name": "1 FITUR",
+      "harga": 5000
+      },
+      {
+      "name": "2 FITUR",
+      harga": 10000
+      },
+      {
+      "name": "3 FITUR ( FREE 1 FITUR )",
+      "harga": 15000
+      }
     ]
   }
 ]
