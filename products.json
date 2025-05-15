@@ -145,5 +145,13 @@
         "harga": 35000
       }
     ]
+  },
+  {
+    "nama": "JASA TAMBAH/FIX FITUR BOT",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/72fc871f.jpg",
+    "harga": "5000",
+    "paket": [
+      "1 FITUR - 5000\n2 FITUR - 10000\n3 FITUR ( FREE 1 FITUR ) - 15000"
+    ]
   }
 ]
