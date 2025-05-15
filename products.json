@@ -154,5 +154,37 @@
     "harga": 5000,
     "paket": [],
     "desc": "1 FITUR 5K JADI HITUNG AJA MAU BRPA FITUR YG DI FIX ATAU TAMBAH HARGA BISA BERUBAH-UBAH TERGANTUNG KESULITANNYA"
+  },
+  {
+    "nama": "SSH/CONFIG PREMIUM",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/f2e7c756.jpg",
+    "harga": "",
+    "paket": [
+      {
+        "name": "1 BULAN",
+        "harga": 10000
+      },
+      {
+        "name": "2 BULAN",
+        "harga": 20000
+      },
+      {
+        "name": "3 BULAN",
+        "harga": 30000
+      },
+      {
+        "name": "4 BULAN",
+        "harga": 40000
+      },
+      {
+        "name": "7 HARI",
+        "harga": 3000
+      },
+      {
+        "name": "15 HARI",
+        "harga": 5000
+      }
+    ],
+    "desc": "GARANSI 30 HARI\n2 IP LIMIT\nBEBAS REQ NAMA\nBEBAS REQ CONFIG\nANTI LEMOT\nSUPP YT 1080P\nSUPP NONTON LIVE\nDLL"
   }
 ]
