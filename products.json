@@ -1,0 +1,77 @@
+[
+  {
+    "nama": "SCRIPT X7BOTZ - MD",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
+    "paket": [
+      {
+        "name": "Pack 1 - Free Rename, Update, Fix, Panel, APIKey, 100 No Enc",
+        "harga": 35000
+      },
+      {
+        "name": "Pack 2 - No APIKey, No Update, No Panel, Free Rename, Fix, 100% No Enc",
+        "harga": 25000
+      }
+    ]
+  },
+  {
+    "nama": "RESELLER PANEL PRIVATE",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
+    "paket": [
+      {
+        "name": "Paket Bulanan",
+        "harga": 20000
+      },
+      {
+        "name": "Bayar Per Bulan",
+        "harga": 5000
+      }
+    ]
+  },
+  {
+    "nama": "ALIGHT MOTION PREMIUM",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/b893f315.jpg",
+    "paket": [
+      {
+        "name": "1 Tahun Private (Garansi 3 bulan)",
+        "harga": 7000
+      }
+    ]
+  },
+  {
+    "nama": "PANEL PTERODACTYL",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
+    "harga": 12000
+  },
+  {
+    "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
+    "paket": [
+      { "name": "RAM 1GB CPU 1", "harga": 20000 },
+      { "name": "RAM 2GB CPU 1", "harga": 25000 },
+      { "name": "RAM 2GB CPU 2", "harga": 30000 },
+      { "name": "RAM 4GB CPU 2", "harga": 45000 },
+      { "name": "RAM 8GB CPU 4", "harga": 65000 },
+      { "name": "RAM 16GB CPU 4", "harga": 75000 }
+    ]
+  },
+  {
+    "nama": "VPS DIGITAL OCEAN ( TUNNELING )",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
+    "paket": [
+      { "name": "RAM 1GB CPU 1 1TB", "harga": 35000 },
+      { "name": "RAM 2GB CPU 1 2TB", "harga": 40000 },
+      { "name": "RAM 4GB CPU 2 4TB", "harga": 65000 },
+      { "name": "RAM 8GB CPU 4 5TB", "harga": 80000 }
+    ]
+  },
+  {
+    "nama": "SEWABOT X7BOTZ - MD",
+    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
+    "paket": [
+      { "name": "10 Hari", "harga": 5000 },
+      { "name": "1 Bulan", "harga": 15000 },
+      { "name": "2 Bulan", "harga": 30000 },
+      { "name": "Permanen", "harga": 70000 }
+    ]
+  }
+]
