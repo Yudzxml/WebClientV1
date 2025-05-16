@@ -1,18 +1,6 @@
 {
   "6283872031397": {
     "UserPassword": "@Yudzxml1122",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "6283872031397",
-        "email": "6283872031397@gmail.com",
-        "password": "@Yudzxml1122",
-        "userId": 34,
-        "serverId": 37,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40"
-      }
-    ]
+    "ListPanel": []
   }
 }
