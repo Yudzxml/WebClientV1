@@ -5,7 +5,19 @@
   },
   "snayders@gmail.com": {
     "UserPassword": "snayders1122",
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "username": "bujangdarat",
+        "email": "bujangdarat@gmail.com",
+        "password": "1122",
+        "userId": 47,
+        "serverId": 50,
+        "ram": "8125",
+        "disk": "8125",
+        "cpu": "180"
+      }
+    ]
   },
   "brziko@gmail.com": {
     "UserPassword": "brziko09",
