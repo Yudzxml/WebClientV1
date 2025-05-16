@@ -17,6 +17,18 @@
   },
   "obybot": {
     "UserPassword": "12345678",
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "username": "Oby",
+        "email": "Oby@gmail.com",
+        "password": "pollgg",
+        "userId": 45,
+        "serverId": 48,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0"
+      }
+    ]
   }
 }
