@@ -42,5 +42,21 @@
   "yuki@gmail.com": {
     "UserPassword": "bismillah",
     "ListPanel": []
+  },
+  "obybot": {
+    "UserPassword": "12345678",
+    "ListPanel": [
+      {
+        "success": true,
+        "username": "Yyyy",
+        "email": "Yyyy@gmail.com",
+        "password": "000000",
+        "userId": 48,
+        "serverId": 51,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0"
+      }
+    ]
   }
 }
