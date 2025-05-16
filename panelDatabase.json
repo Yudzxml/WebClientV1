@@ -21,19 +21,7 @@
   },
   "brziko@gmail.com": {
     "UserPassword": "brziko09",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "haikalv2",
-        "email": "haikalv2@gmail.com",
-        "password": "haikal02",
-        "userId": 49,
-        "serverId": 53,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0"
-      }
-    ]
+    "ListPanel": []
   },
   "obymoods@gmail.com": {
     "UserPassword": "obypro",
