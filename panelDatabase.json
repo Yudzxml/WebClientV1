@@ -14,5 +14,9 @@
   "obymoods@gmail.com": {
     "UserPassword": "obypro",
     "ListPanel": []
+  },
+  "obybot": {
+    "UserPassword": "12345678",
+    "ListPanel": []
   }
 }
