@@ -13,18 +13,6 @@
   },
   "obymoods@gmail.com": {
     "UserPassword": "obypro",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "Yudd",
-        "email": "Yudd@gmail.com",
-        "password": "yuzzz",
-        "userId": 41,
-        "serverId": 44,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40"
-      }
-    ]
+    "ListPanel": []
   }
 }
