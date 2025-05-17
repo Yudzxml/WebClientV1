@@ -45,18 +45,6 @@
   },
   "bhjiii": {
     "UserPassword": "jgyyyft6",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "jshshs",
-        "email": "jshshs@gmail.com",
-        "password": "sbsbsb",
-        "userId": 50,
-        "serverId": 55,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40"
-      }
-    ]
+    "ListPanel": []
   }
 }
