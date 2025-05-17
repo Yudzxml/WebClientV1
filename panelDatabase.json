@@ -1,20 +1,7 @@
 {
   "yudzxml@gmail.com": {
     "UserPassword": "@Yudzxml1122",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "hshshsg",
-        "email": "hshshsg@gmail.com",
-        "password": "sghshshs",
-        "userId": 56,
-        "serverId": 73,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40",
-        "createdAt": "17 - MEI - 2025"
-      }
-    ]
+    "ListPanel": []
   },
   "snayders@gmail.com": {
     "UserPassword": "snayders1122",
