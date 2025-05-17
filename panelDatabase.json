@@ -4,18 +4,6 @@
     "ListPanel": [
       {
         "success": true,
-        "username": "testNode",
-        "email": "testNode@gmail.com",
-        "password": "12345",
-        "userId": 53,
-        "serverId": 58,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40",
-        "createdAt": "17 - MEI - 2025"
-      },
-      {
-        "success": true,
         "username": "hshshsg",
         "email": "hshshsg@gmail.com",
         "password": "sghshshs",
