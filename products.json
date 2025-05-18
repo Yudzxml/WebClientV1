@@ -32,9 +32,54 @@
   {
     "nama": "PANEL PTERODACTYL",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "harga": 12000,
-    "paket": [],
-    "desc": "STOK HANYA RAM UNLI DAN CPU UNLI GARANSI ON 1 SATU BULAN SERVER KENCANG KARNA MENGGUNAKAN VPS BERKUALITAS"
+    "harga": "",
+    "paket": [
+      {
+        "name": "RAM 1GB",
+        "harga": 3000
+      },
+      {
+        "name": "RAM 2GB",
+        "harga": 4000
+      },
+      {
+        "name": "RAM 3GB",
+        "harga": 5000
+      },
+      {
+        "name": "RAM 4GB",
+        "harga": 6000
+      },
+      {
+        "name": "RAM 5GB",
+        "harga": 7000
+      },
+      {
+        "name": "RAM 6GB",
+        "harga": 8000
+      },
+      {
+        "name": "RAM 7GB",
+        "harga": 9000
+      },
+      {
+        "name": "RAM 8GB",
+        "harga": 10000
+      },
+      {
+        "name": "RAM 9GB",
+        "harga": 11000
+      },
+      {
+        "name": "RAM 10GB",
+        "harga": 12000
+      },
+      {
+        "name": "RAM UNLIMITED",
+        "harga": 15000
+      }
+    ],
+    "desc": "PANEL KAMI TERJAMI FAST DAN CEPAT DAN SUDAH ANTI DDOS MENGGUNAKAN VPS R16 DAN SUPP NODE DARI 14/24 SERVER PRIVATE SCRIPT DI JAMIN ANTI KECOLONGAN UNTUK KETENTUAN LEBIH LANJUT SUNG CHAT ADMIN"
   },
   {
     "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
