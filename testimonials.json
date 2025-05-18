@@ -1,0 +1,12 @@
+[
+  {
+    "image": "https://example.com/testimoni1.jpg",
+    "date": "18-05-2025",
+    "customer": "Budi"
+  },
+  {
+    "image": "https://example.com/testimoni2.jpg",
+    "date": "17-05-2025",
+    "customer": "Siti"
+  }
+]
