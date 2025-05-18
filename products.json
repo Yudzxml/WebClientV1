@@ -197,8 +197,29 @@
     "nama": "JASA TAMBAH/FIX FITUR BOT",
     "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/72fc871f.jpg",
     "harga": 5000,
-    "paket": [],
-    "desc": "1 FITUR 5K JADI HITUNG AJA MAU BRPA FITUR YG DI FIX ATAU TAMBAH HARGA BISA BERUBAH-UBAH TERGANTUNG KESULITANNYA"
+    "paket": [
+      {
+        "name": "1 FITUR",
+        "harga": 5000
+      },
+      {
+        "name": "2 FITUR",
+        "harga": 10000
+      },
+      {
+        "name": "3 FITUR",
+        "harga": 15000
+      },
+      {
+        "name": "4 FITUR",
+        "harga": 20000
+      },
+      {
+        "name": "5 FITUR",
+        "harga": 25000
+      }
+    ],
+    "desc": "1 FITUR 5K JADI HITUNG AJA MAU BRPA FITUR YG DI FIX ATAU TAMBAH HARGA BISA BERUBAH-UBAH TERGANTUNG KESULITANNYA, GRATIS 1 FITUR JIKA LEBIH DARI 3 FITUR YG DI ORDER"
   },
   {
     "nama": "SSH/CONFIG PREMIUM",
