@@ -74,6 +74,19 @@
   },
   "RulBot777@gmail.com": {
     "UserPassword": "RULL STORE777",
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "username": "RullBot",
+        "email": "RullBot@gmail.com",
+        "password": "RULL777",
+        "userId": 58,
+        "serverId": 76,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "19 - MEI - 2025"
+      }
+    ]
   }
 }
