@@ -16,6 +16,18 @@
         "ram": "8125",
         "disk": "8125",
         "cpu": "180"
+      },
+      {
+        "success": true,
+        "username": "amin",
+        "email": "amin@gmail.com",
+        "password": "12345",
+        "userId": 59,
+        "serverId": 78,
+        "ram": "1125",
+        "disk": "1125",
+        "cpu": "40",
+        "createdAt": "20 - MEI - 2025"
       }
     ]
   },
