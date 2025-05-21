@@ -5,5 +5,12 @@
     "harga": "8.000",
     "date": "18 - 05 - 2025",
     "customer": "RYO"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/4cd36f4f.jpg",
+    "barang": "PANEL PTERODACTYL",
+    "harga": "6.000",
+    "date": "21 - 05 - 2025",
+    "customer": "JMS STORE"
   }
 ]
