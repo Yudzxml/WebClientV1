@@ -25,6 +25,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "gggh",
+        "email": "gggh@gmail.com",
+        "password": "vhudu",
+        "userId": 65,
+        "serverId": 84,
+        "ram": "1125",
+        "disk": "1125",
+        "cpu": "40",
+        "createdAt": "23 - MEI - 2025"
       }
     ]
   },
