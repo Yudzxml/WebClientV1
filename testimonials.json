@@ -26,5 +26,12 @@
     "harga": "20000",
     "date": "26 - 05 - 2025",
     "customer": "ANONYMOUS"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/afba2fd7.jpg",
+    "barang": "SEWA BOT",
+    "harga": "5000",
+    "date": "26 - 05 - 2025",
+    "customer": "CENOT"
   }
 ]
