@@ -19,5 +19,12 @@
     "harga": "100000",
     "date": "26 - 05 - 2025",
     "customer": "ALJADUGH"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/3cb8bd24.jpg",
+    "barang": "JASA TAMBAH FITUR",
+    "harga": "20000",
+    "date": "26 - 05 - 2025",
+    "customer": "ANONYMOUS"
   }
 ]
