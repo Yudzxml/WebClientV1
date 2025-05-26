@@ -122,7 +122,20 @@
   },
   "azildansaputra@gmail.com": {
     "UserPassword": "zyldans16127",
-    "ListPanel": [],
+    "ListPanel": [
+      {
+        "success": true,
+        "username": "zyl",
+        "email": "zyl@gmail.com",
+        "password": "zyl16127",
+        "userId": 67,
+        "serverId": 87,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "26 - MEI - 2025"
+      }
+    ],
     "expiredAt": 1748613569247
   },
   "RulBot777@gmail.com": {
