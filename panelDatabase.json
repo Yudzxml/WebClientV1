@@ -53,6 +53,18 @@
         "disk": "1125",
         "cpu": "40",
         "createdAt": "20 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "nihtest",
+        "email": "nihtest@gmail.com",
+        "password": "12345",
+        "userId": 66,
+        "serverId": 86,
+        "ram": "5125",
+        "disk": "5125",
+        "cpu": "120",
+        "createdAt": "26 - MEI - 2025"
       }
     ]
   },
