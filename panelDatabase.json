@@ -152,6 +152,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "RULL",
+        "email": "RULL@gmail.com",
+        "password": "RULL30",
+        "userId": 68,
+        "serverId": 88,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "29 - MEI - 2025"
       }
     ],
     "expiredAt": 1748613569247
