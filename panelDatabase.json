@@ -25,6 +25,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "uhvv",
+        "email": "uhvv@gmail.com",
+        "password": "bvbbbb",
+        "userId": 69,
+        "serverId": 89,
+        "ram": "1125",
+        "disk": "1125",
+        "cpu": "40",
+        "createdAt": "29 - MEI - 2025"
       }
     ]
   },
