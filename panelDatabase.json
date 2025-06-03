@@ -152,6 +152,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "RulMD",
+        "email": "RulMD@gmail.com",
+        "password": "rul77",
+        "userId": 70,
+        "serverId": 90,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "3 - JUNI - 2025"
       }
     ],
     "expiredAt": 1751562799481,
