@@ -14,5 +14,33 @@
       }
     ],
     "id": "1749036180711"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/031ef18a.jpg",
+    "name": "SEWA BOT",
+    "description": "Sewa bot WA 800+ fitur, aktif 24 jam, mulai Rp 7.000.\nBonus premium & akses private chat!",
+    "packages": [
+      {
+        "name": "PAKET 10 HARI",
+        "price": 7000
+      },
+      {
+        "name": "PAKET 20 HARI",
+        "price": 12000
+      },
+      {
+        "name": "PAKET 1 BULAN",
+        "price": 15000
+      },
+      {
+        "name": "PAKET 2 BULAN",
+        "price": 30000
+      },
+      {
+        "name": "PAKET LIFETIME",
+        "price": 70000
+      }
+    ],
+    "id": "1749036625785"
   }
 ]
