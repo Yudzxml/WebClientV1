@@ -1,26 +1,5 @@
 [
   {
-    "id": "1717489127890",
-    "name": "Bot WhatsApp Premium",
-    "description": "Sewa bot WhatsApp dengan fitur lengkap 24/7 uptime.",
-    "image": "https://example.com/images/botwa.jpg",
-    "price": 20000,
-    "packages": [
-      {
-        "label": "1 Minggu",
-        "price": 10000
-      },
-      {
-        "label": "1 Bulan",
-        "price": 20000
-      },
-      {
-        "label": "3 Bulan",
-        "price": 50000
-      }
-    ]
-  },
-  {
     "id": "1717489130000",
     "name": "Spotify Premium",
     "description": "Langganan Spotify Premium legal 1 bulan.",
