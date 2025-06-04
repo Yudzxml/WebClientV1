@@ -42,5 +42,25 @@
       }
     ],
     "id": "1749036625785"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/d384237f.jpg",
+    "name": "JASA ADD FITUR BOT",
+    "description": "Tambahkan fitur bot sesuai kebutuhan kamu, proses cepat dapatkan mulai dari harga 5.000/Fitur",
+    "packages": [
+      {
+        "name": "1 FITUR",
+        "price": 5000
+      },
+      {
+        "name": "2 FITUR",
+        "price": 10000
+      },
+      {
+        "name": "3 FITUR",
+        "price": 15000
+      }
+    ],
+    "id": "1749036896989"
   }
 ]
