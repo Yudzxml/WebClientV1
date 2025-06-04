@@ -183,6 +183,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "23 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "doyok",
+        "email": "doyok@gmail.com",
+        "password": "doyok123",
+        "userId": 71,
+        "serverId": 91,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "4 - JUNI - 2025"
       }
     ],
     "expiredAt": 1751638268764,
