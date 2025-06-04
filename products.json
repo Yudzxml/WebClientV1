@@ -126,5 +126,21 @@
       }
     ],
     "id": "1749037793368"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/35ce74b0.jpg",
+    "name": "JADI BOT",
+    "description": "jadibot murah, aman, bot anti delay, siap pakai",
+    "packages": [
+      {
+        "name": "PAKET 1 BULAN",
+        "price": 30000
+      },
+      {
+        "name": "PAKET 2 BULAN",
+        "price": 60000
+      }
+    ],
+    "id": "1749047688187"
   }
 ]
