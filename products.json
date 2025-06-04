@@ -62,5 +62,25 @@
       }
     ],
     "id": "1749036896989"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/d384237f.jpg",
+    "name": "JASA FIX SOURCE BOT",
+    "description": "Atasi Masalah Code anda pada kami siap layani kapan saja yang pastinya fast pengerjaan",
+    "packages": [
+      {
+        "name": "1 FITUR",
+        "price": 5000
+      },
+      {
+        "name": "2 FITUR",
+        "price": 10000
+      },
+      {
+        "name": "3 FITUR",
+        "price": 15000
+      }
+    ],
+    "id": "1749037287081"
   }
 ]
