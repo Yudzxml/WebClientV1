@@ -118,5 +118,41 @@
       }
     ],
     "id": "1749037615726"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/8e5049c8.jpg",
+    "name": "PANEL PTERODACTYL",
+    "description": "Panel PyTreodyLT — Mulai Rp 7.000/bln Private | Garansi | Auto Ngebut",
+    "packages": [
+      {
+        "name": "RAM 5 GB",
+        "price": 7000
+      },
+      {
+        "name": "RAM 6 GB",
+        "price": 8000
+      },
+      {
+        "name": "RAM 7 GB",
+        "price": 9000
+      },
+      {
+        "name": "RAM 8 GB",
+        "price": 10000
+      },
+      {
+        "name": "RAM 9 GB",
+        "price": 11000
+      },
+      {
+        "name": "RAM 10 GB",
+        "price": 12000
+      },
+      {
+        "name": "RAM UNLIMITED",
+        "price": 15000
+      }
+    ],
+    "id": "1749037616293"
   }
 ]
