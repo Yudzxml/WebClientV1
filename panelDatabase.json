@@ -123,18 +123,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "4 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "Egg",
-        "email": "Egg@gmail.com",
-        "password": "0",
-        "userId": 73,
-        "serverId": 93,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "4 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
