@@ -1,263 +1,38 @@
 [
   {
-    "nama": "SCRIPT X7BOTZ - MD",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
-    "paket": [
-      {
-        "name": "PACK 1",
-        "harga": 40000
-      },
-      {
-        "name": "PACK 2",
-        "harga": 25000
-      }
-    ],
-    "harga": 35000,
-    "desc": "PACK 1 LIST \n• FREE APIKEY\n• FREE RENAME\n• FREE UPDATE\n• FREE FIX\n• FREE ACCESS 2 NOMOR\n• FREE PANEL 1 BULAN\n• DISKON PERPANJANGAN PANEL \n• 100% NO ENC\n\nPACK 2 LIST\n• NO APIKEY\n• NO UPDATE\n• NO PANEL \n• FREE RENAME\n• FREE FIX\n• FREE ADD ACCESS 2 NOMOR\n• 100% NO ENC"
+    "id": "1717489123456",
+    "name": "Akun Netflix Premium",
+    "description": "Akses akun Netflix legal 1 bulan untuk 1 user.",
+    "image": "https://example.com/images/netflix.jpg",
+    "price": 30000,
+    "packages": [
+      { "label": "1 Bulan", "price": 30000 },
+      { "label": "3 Bulan", "price": 85000 },
+      { "label": "6 Bulan", "price": 160000 }
+    ]
   },
   {
-    "nama": "RESELLER PANEL PRIVATE",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "paket": [],
-    "harga": 20000,
-    "desc": "HARGA JOIN PERTAMA KALI BAYAR 20K UNTUK PERBULAN WAJIB BAYAR 7K UNTUK PERPANJANGAN MASA RESELLER"
+    "id": "1717489127890",
+    "name": "Bot WhatsApp Premium",
+    "description": "Sewa bot WhatsApp dengan fitur lengkap 24/7 uptime.",
+    "image": "https://example.com/images/botwa.jpg",
+    "price": 20000,
+    "packages": [
+      { "label": "1 Minggu", "price": 10000 },
+      { "label": "1 Bulan", "price": 20000 },
+      { "label": "3 Bulan", "price": 50000 }
+    ]
   },
   {
-    "nama": "ALIGHT MOTION PREMIUM",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/b893f315.jpg",
-    "paket": [],
-    "harga": 8000,
-    "desc": "MASA AKTIF 1 TAHUN WAJIB BAWA GMAIL FRESH/BARU, GARANSI 3 BULAN SILAHKAN DI ORDER"
-  },
-  {
-    "nama": "PANEL PTERODACTYL",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/ddb209f4.jpg",
-    "harga": "",
-    "paket": [
-      {
-        "name": "RAM 1GB",
-        "harga": 3000
-      },
-      {
-        "name": "RAM 2GB",
-        "harga": 4000
-      },
-      {
-        "name": "RAM 3GB",
-        "harga": 5000
-      },
-      {
-        "name": "RAM 4GB",
-        "harga": 6000
-      },
-      {
-        "name": "RAM 5GB",
-        "harga": 7000
-      },
-      {
-        "name": "RAM 6GB",
-        "harga": 8000
-      },
-      {
-        "name": "RAM 7GB",
-        "harga": 9000
-      },
-      {
-        "name": "RAM 8GB",
-        "harga": 10000
-      },
-      {
-        "name": "RAM 9GB",
-        "harga": 11000
-      },
-      {
-        "name": "RAM 10GB",
-        "harga": 12000
-      },
-      {
-        "name": "RAM UNLIMITED",
-        "harga": 15000
-      }
-    ],
-    "desc": "PANEL KAMI TERJAMI FAST DAN CEPAT DAN SUDAH ANTI DDOS MENGGUNAKAN VPS R16 DAN SUPP NODE DARI 14/24 SERVER PRIVATE SCRIPT DI JAMIN ANTI KECOLONGAN UNTUK KETENTUAN LEBIH LANJUT SUNG CHAT ADMIN"
-  },
-  {
-    "nama": "VPS DIGITAL OCEAN ( KOSONGAN )",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
-    "paket": [
-      {
-        "name": "RAM 1GB CPU 1",
-        "harga": 20000
-      },
-      {
-        "name": "RAM 2GB CPU 1",
-        "harga": 25000
-      },
-      {
-        "name": "RAM 2GB CPU 2",
-        "harga": 30000
-      },
-      {
-        "name": "RAM 4GB CPU 2",
-        "harga": 45000
-      },
-      {
-        "name": "RAM 8GB CPU 4",
-        "harga": 65000
-      },
-      {
-        "name": "RAM 16GB CPU 4",
-        "harga": 75000
-      }
-    ],
-    "harga": "",
-    "desc": "KETENTUAN BISA LANGSUNG CHAT ADMIN"
-  },
-  {
-    "nama": "VPS DIGITAL OCEAN ( TUNNELING )",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/67767a6a.jpg",
-    "paket": [
-      {
-        "name": "RAM 1GB CPU 1 1TB",
-        "harga": 35000
-      },
-      {
-        "name": "RAM 2GB CPU 1 2TB",
-        "harga": 40000
-      },
-      {
-        "name": "RAM 4GB CPU 2 4TB",
-        "harga": 65000
-      },
-      {
-        "name": "RAM 8GB CPU 4 5TB",
-        "harga": 80000
-      }
-    ],
-    "harga": "",
-    "desc": "KETENTUAN BISA LANGSUNG CHAT ADMIN"
-  },
-  {
-    "nama": "SEWABOT X7BOTZ - MD",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
-    "paket": [
-      {
-        "name": "10 HARI",
-        "harga": 5000
-      },
-      {
-        "name": "1 BULAN",
-        "harga": 15000
-      },
-      {
-        "name": "2 BULAN",
-        "harga": 30000
-      },
-      {
-        "name": "PERMANEN",
-        "harga": 70000
-      }
-    ],
-    "harga": "",
-    "desc": "SEWABOT HANYA UNTUK SATU GRUP SAJA, MENDAPATKAN AKSES PREMIUM GRATIS JIKA ORDER 1 BULAN, FITUR 800+ COCOK BUAT JUALAN ATAUPUN UNTUK GRUP FUN BARENG TEMEN"
-  },
-  {
-    "nama": "DOMAIN MURMER",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/689488a3.jpg",
-    "paket": [
-      {
-        "name": "NAMAKAMU.MY.ID",
-        "harga": 35000
-      },
-      {
-        "name": "NAMAKAMU.BIZ.ID",
-        "harga": 35000
-      },
-      {
-        "name": "NAMAKAMU.CYOU",
-        "harga": 35000
-      },
-      {
-        "name": "NAMAKAMU.STORE",
-        "harga": 55000
-      },
-      {
-        "name": "NAMAKAMU.CLOUD",
-        "harga": 35000
-      },
-      {
-        "name": "NAMAKAMU.XYZ",
-        "harga": 35000
-      }
-    ],
-    "harga": "",
-    "desc": "GARANSI ON 3 BULAN SUDAH TERHUBUNG KE CF LANGSUNG SIAP PAKAI KETENTUAN LAINNYA LANGSUNG HUBUNGI ADMIN"
-  },
-  {
-    "nama": "JASA TAMBAH/FIX FITUR BOT",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/72fc871f.jpg",
-    "harga": "",
-    "paket": [
-      {
-        "name": "1 FITUR",
-        "harga": 5000
-      },
-      {
-        "name": "2 FITUR",
-        "harga": 10000
-      },
-      {
-        "name": "3 FITUR",
-        "harga": 15000
-      },
-      {
-        "name": "4 FITUR",
-        "harga": 20000
-      },
-      {
-        "name": "5 FITUR",
-        "harga": 25000
-      }
-    ],
-    "desc": "1 FITUR 5K JADI HITUNG AJA MAU BRPA FITUR YG DI FIX ATAU TAMBAH HARGA BISA BERUBAH-UBAH TERGANTUNG KESULITANNYA, GRATIS 1 FITUR JIKA LEBIH DARI 3 FITUR YG DI ORDER"
-  },
-  {
-    "nama": "SSH/CONFIG PREMIUM",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/f2e7c756.jpg",
-    "harga": "",
-    "paket": [
-      {
-        "name": "1 BULAN",
-        "harga": 10000
-      },
-      {
-        "name": "2 BULAN",
-        "harga": 20000
-      },
-      {
-        "name": "3 BULAN",
-        "harga": 30000
-      },
-      {
-        "name": "4 BULAN",
-        "harga": 40000
-      },
-      {
-        "name": "7 HARI",
-        "harga": 3000
-      },
-      {
-        "name": "15 HARI",
-        "harga": 5000
-      }
-    ],
-    "desc": "GARANSI 30 HARI\n2 IP LIMIT\nBEBAS REQ NAMA\nBEBAS REQ CONFIG\nANTI LEMOT\nSUPP YT 1080P\nSUPP NONTON LIVE\nDLL"
-  },
-  {
-    "nama": "JADI BOT",
-    "img": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/6c4ee368.jpg",
-    "harga": 30000,
-    "paket": [],
-    "desc": "MASA AKTIF SATU BULAN,\nCOCOK UNTUK OPEN SEWABOT,\nBEBERAPA FITUR DI BATASIN,\nSIAP PAKAI LANGSUNG JALAN,\nBOT AKTIF 24 JAM,\nANTI DELAY,\nKETENTUAN DAN LAINYA CHAT OWNER."
+    "id": "1717489130000",
+    "name": "Spotify Premium",
+    "description": "Langganan Spotify Premium legal 1 bulan.",
+    "image": "https://example.com/images/spotify.jpg",
+    "price": 15000,
+    "packages": [
+      { "label": "1 Bulan", "price": 15000 },
+      { "label": "3 Bulan", "price": 42000 },
+      { "label": "6 Bulan", "price": 80000 }
+    ]
   }
 ]
