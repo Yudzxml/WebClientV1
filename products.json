@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/35ce74b0.jpg",
+    "name": "SCRIPT X7BOTZ",
+    "description": "Script bot WA 800+ fitur, ringan & powerful. Support Panel/Termux. Mulai Rp 25.000.",
+    "packages": [
+      {
+        "name": "PACK PREMIUM",
+        "price": 40000
+      },
+      {
+        "name": "PACK BASIC",
+        "price": 25000
+      }
+    ],
+    "id": "1749036180711"
+  }
+]
