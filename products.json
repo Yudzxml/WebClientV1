@@ -154,5 +154,37 @@
       }
     ],
     "id": "1749204088177"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/7ce9edc0.jpg",
+    "name": "MABAR VIP BY YUDZXML",
+    "description": "Mabar VIP jamin ws role Jung/gold, ex prov Fanny, ling, yss, fredrin, siap gendong duo/trio/pt sung order aja",
+    "packages": [
+      {
+        "name": "1 MACHT",
+        "price": 3000
+      },
+      {
+        "name": "2 MACHT",
+        "price": 6000
+      },
+      {
+        "name": "3 MACHT",
+        "price": 9000
+      },
+      {
+        "name": "4 MACHT",
+        "price": 12000
+      },
+      {
+        "name": "5 MACHT",
+        "price": 15000
+      },
+      {
+        "name": "10 MACHT",
+        "price": 25000
+      }
+    ],
+    "id": "1749209410914"
   }
 ]
