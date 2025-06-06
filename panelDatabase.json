@@ -114,18 +114,6 @@
       },
       {
         "success": true,
-        "username": "Pppp",
-        "email": "Pppp@gmail.com",
-        "password": "123",
-        "userId": 57,
-        "serverId": 75,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "18 - MEI - 2025"
-      },
-      {
-        "success": true,
         "username": "Egykontol",
         "email": "Egykontol@gmail.com",
         "password": "100",
