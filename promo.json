@@ -1,3 +1,11 @@
 [
-  
+  {
+    "id": 1,
+    "nama": "SEWA BOT",
+    "deskripsi": "promo Idhul Adha, sewabot 1 bulan terbatas",
+    "harga_awal": 15000,
+    "harga_promo": 10000,
+    "berlaku_sampai": "2025-06-08",
+    "wa_nomor": "6283872031397"
+  }
 ]
