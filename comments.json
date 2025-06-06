@@ -1,1 +1,20 @@
-
+[
+  {
+    "username": "Andi",
+    "text": "Produk ini benar-benar berkualitas tinggi! Setiap detail terasa kokoh dan rapi, sesuai dengan ekspektasi saya. Proses pengirimannya juga sangat cepat—hanya dalam waktu kurang dari 24 jam barang sudah tiba. Saya puas sekali dengan pengalaman berbelanja di sini dan pasti akan kembali untuk pembelian berikutnya.",
+    "rating": 5,
+    "created_at": "2025-06-06T08:15:30.000Z"
+  },
+  {
+    "username": "Siti",
+    "text": "Saya sangat menyukai desain produk ini; tampilannya modern dan elegan, cocok dipadukan dengan berbagai gaya. Namun, menurut saya harga yang ditawarkan sedikit di atas rata-rata pasar. Meski begitu, saya merasa investasi ini sepadan dengan kualitas dan keunikan desainnya. Saya tetap memberi nilai tinggi karena kepuasan keseluruhan yang didapat.",
+    "rating": 4,
+    "created_at": "2025-06-05T14:42:10.000Z"
+  },
+  {
+    "username": "Budi",
+    "text": "Potensi produknya sebenarnya menarik, namun saya sering kali kesulitan mendapatkan stok karena cepat habis. Selain itu, saya mengalami kendala ketika ingin menghubungi customer service—responsnya cukup lambat walaupun masalah yang saya hadapi memerlukan penanganan segera. Semoga ke depannya ketersediaan stok lebih terjaga dan layanan purna jual bisa lebih responsif.",
+    "rating": 2,
+    "created_at": "2025-06-04T19:05:55.000Z"
+  }
+]
