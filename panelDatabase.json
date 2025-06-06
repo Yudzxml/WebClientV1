@@ -135,6 +135,18 @@
         "disk": "5125",
         "cpu": "120",
         "createdAt": "6 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Anjay",
+        "email": "Anjay@gmail.com",
+        "password": "123",
+        "userId": 78,
+        "serverId": 98,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "6 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
