@@ -123,18 +123,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "18 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "Jancok",
-        "email": "Jancok@gmail.com",
-        "password": "111",
-        "userId": 72,
-        "serverId": 92,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "4 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
