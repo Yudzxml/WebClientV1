@@ -1,1 +1,20 @@
-
+[
+  {
+    "id": 1,
+    "nama": "Produk A",
+    "deskripsi": "Diskon 20% untuk Produk A",
+    "harga_awal": 100000,
+    "harga_promo": 80000,
+    "berlaku_sampai": "2025-06-30",       
+    "wa_nomor": "6281234567890"
+  },
+  {
+    "id": 2,
+    "nama": "Produk B",
+    "deskripsi": "Buy 1 get 1 Produk B",
+    "harga_awal": 50000,
+    "harga_promo": 50000,
+    "berlaku_sampai": "2025-06-15",
+    "wa_nomor": "6289876543210"
+  }
+]
