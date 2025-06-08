@@ -123,6 +123,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "8 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Yoi",
+        "email": "Yoi@gmail.com",
+        "password": "10",
+        "userId": 90,
+        "serverId": 110,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "8 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
