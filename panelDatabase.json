@@ -114,18 +114,6 @@
       },
       {
         "success": true,
-        "username": "EGY5",
-        "email": "EGY5@gmail.com",
-        "password": "egy5",
-        "userId": 83,
-        "serverId": 103,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "8 - JUNI - 2025"
-      },
-      {
-        "success": true,
         "username": "EGY6",
         "email": "EGY6@gmail.com",
         "password": "egy6",
