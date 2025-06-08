@@ -219,6 +219,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "8 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "EGY10",
+        "email": "EGY10@gmail.com",
+        "password": "egy10",
+        "userId": 88,
+        "serverId": 108,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "8 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
