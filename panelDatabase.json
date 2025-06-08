@@ -114,18 +114,6 @@
       },
       {
         "success": true,
-        "username": "Egykontol",
-        "email": "Egykontol@gmail.com",
-        "password": "100",
-        "userId": 77,
-        "serverId": 97,
-        "ram": "5125",
-        "disk": "5125",
-        "cpu": "120",
-        "createdAt": "6 - JUNI - 2025"
-      },
-      {
-        "success": true,
         "username": "EGY1",
         "email": "EGY1@gmail.com",
         "password": "egy1",
