@@ -111,6 +111,18 @@
         "ram": "0",
         "disk": "0",
         "cpu": "0"
+      },
+      {
+        "success": true,
+        "username": "Oby",
+        "email": "Oby@gmail.com",
+        "password": "111",
+        "userId": 89,
+        "serverId": 109,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "8 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
