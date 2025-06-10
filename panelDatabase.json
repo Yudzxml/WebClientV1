@@ -147,6 +147,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "10 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Caca",
+        "email": "Caca@gmail.com",
+        "password": "caca1",
+        "userId": 93,
+        "serverId": 113,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "10 - JUNI - 2025"
       }
     ],
     "expiredAt": 1749650369247
