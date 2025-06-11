@@ -37,18 +37,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "5 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "xbhdb",
-        "email": "xbhdb@gmail.com",
-        "password": "dgdgdh",
-        "userId": 94,
-        "serverId": 114,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40",
-        "createdAt": "11 - JUNI - 2025"
       }
     ]
   },
