@@ -244,6 +244,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "4 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "alip2",
+        "email": "alip2@gmail.com",
+        "password": "alip2",
+        "userId": 95,
+        "serverId": 115,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "15 - JUNI - 2025"
       }
     ],
     "expiredAt": 1751638268764,
