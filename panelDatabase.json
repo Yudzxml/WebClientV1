@@ -160,6 +160,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "10 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Anjy",
+        "email": "Anjy@gmail.com",
+        "password": "anjy1",
+        "userId": 96,
+        "serverId": 116,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "17 - JUNI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
