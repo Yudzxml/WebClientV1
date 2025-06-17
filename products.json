@@ -225,5 +225,26 @@
       { "name": "RAM 8GB - CPU 4 - 5TB", "price": 80000 }
     ],
     "id": "1749300000002"
+  },
+  [
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/f8a97691.png",
+    "name": "JASA INSTALL PANEL PTERODACTYL",
+    "description": "Install dan konfigurasi Panel Ptreodtyl lengkap dengan Wings dan subdomain gratis. Proses cepat dan aman, cocok untuk semua kebutuhan Anda!",
+    "packages": [
+      {
+        "name": "Basic – Install Panel + Subdomain",
+        "price": 5000
+      },
+      {
+        "name": "Standard – Install + Wings + Subdomain",
+        "price": 8000
+      },
+      {
+        "name": "Premium – Install + Wings + Subdomain + Anti Ddos",
+        "price": 11000
+      }
+    ],
+    "id": "1749300000003"
   }
 ]
