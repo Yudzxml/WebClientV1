@@ -198,5 +198,32 @@
       }
     ],
     "id": "1749210992915"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/7e3fcdd6.jpg",
+    "name": "VPS HOSTING DIGITALOCEAN",
+    "description": "Ingin meningkatkan performa website atau kecepatan VPN Anda? Dapatkan VPS berkualitas tinggi dan tahan lama dari kami dengan harga terjangkau!",
+    "packages": [
+      { "name": "RAM 1GB - CPU 1", "price": 20000 },
+      { "name": "RAM 2GB - CPU 1", "price": 25000 },
+      { "name": "RAM 2GB - CPU 2", "price": 30000 },
+      { "name": "RAM 4GB - CPU 2", "price": 45000 },
+      { "name": "RAM 8GB - CPU 4", "price": 65000 },
+      { "name": "RAM 16GB - CPU 4", "price": 75000 }
+    ],
+    "id": "1749300000001"
+  },
+  {
+    "imageUrl": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/7e3fcdd6.jpg",
+    "name": "VPS TUNNELING DIGITALOCEAN",
+    "description": "Butuh VPS untuk tunneling dengan kuota besar? Pilih paket kami dengan autoscript siap pakai dan garansi replace 30 hari!",
+    "packages": [
+      { "name": "RAM 1GB - CPU 1 - 1TB", "price": 35000 },
+      { "name": "RAM 2GB - CPU 1 - 2TB", "price": 40000 },
+      { "name": "RAM 2GB - CPU 2 - 3TB", "price": 45000 },
+      { "name": "RAM 4GB - CPU 2 - 4TB", "price": 65000 },
+      { "name": "RAM 8GB - CPU 4 - 5TB", "price": 80000 }
+    ],
+    "id": "1749300000002"
   }
 ]
