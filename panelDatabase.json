@@ -160,6 +160,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "10 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Bot",
+        "email": "Bot@gmail.com",
+        "password": "12",
+        "userId": 97,
+        "serverId": 117,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "19 - JUNI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
