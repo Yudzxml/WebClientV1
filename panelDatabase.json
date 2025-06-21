@@ -37,6 +37,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "5 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "anjayalok",
+        "email": "anjayalok@gmail.com",
+        "password": "2004",
+        "userId": 99,
+        "serverId": 119,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "21 - JUNI - 2025"
       }
     ]
   },
