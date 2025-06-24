@@ -118,6 +118,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "17 - MEI - 2025"
+      },
+      {
+        "success": true,
+        "username": "iam.ecaa",
+        "email": "iam.ecaa@gmail.com",
+        "password": "ecaaww",
+        "userId": 100,
+        "serverId": 121,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "24 - JUNI - 2025"
       }
     ],
     "expiredAt": 1752342507608,
