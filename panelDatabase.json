@@ -49,18 +49,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "testvip",
-        "email": "testvip@gmail.com",
-        "password": "2005",
-        "userId": 102,
-        "serverId": 123,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40",
-        "createdAt": "26 - JUNI - 2025"
       }
     ]
   },
