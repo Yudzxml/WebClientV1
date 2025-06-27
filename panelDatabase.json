@@ -262,6 +262,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "3 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "PapoyRul",
+        "email": "PapoyRul@gmail.com",
+        "password": "RULL777",
+        "userId": 103,
+        "serverId": 124,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "27 - JUNI - 2025"
       }
     ],
     "expiredAt": 1751562799481,
