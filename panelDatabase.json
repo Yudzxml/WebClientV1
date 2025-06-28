@@ -208,6 +208,18 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "28 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "username": "Panz",
+        "email": "Panz@gmail.com",
+        "password": "panz03",
+        "userId": 105,
+        "serverId": 126,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "28 - JUNI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
