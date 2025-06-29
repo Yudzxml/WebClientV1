@@ -4,18 +4,6 @@
     "ListPanel": [
       {
         "success": true,
-        "username": "jmsstore",
-        "email": "jmsstore@gmail.com",
-        "password": "2005",
-        "userId": 60,
-        "serverId": 79,
-        "ram": "4125",
-        "disk": "4125",
-        "cpu": "100",
-        "createdAt": "21 - MEI - 2025"
-      },
-      {
-        "success": true,
         "username": "shanzz",
         "email": "shanzz@gmail.com",
         "password": "2005",
