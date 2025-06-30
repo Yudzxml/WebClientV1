@@ -177,18 +177,6 @@
       },
       {
         "success": true,
-        "username": "Alok",
-        "email": "Alok@gmail.com",
-        "password": "alok1",
-        "userId": 104,
-        "serverId": 125,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "28 - JUNI - 2025"
-      },
-      {
-        "success": true,
         "username": "Panz",
         "email": "Panz@gmail.com",
         "password": "panz03",
