@@ -186,6 +186,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "28 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "Zhaa",
+        "email": "Zhaa@gmail.com",
+        "password": "zhaa04",
+        "userId": 107,
+        "serverId": 128,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "1 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
