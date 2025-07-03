@@ -199,19 +199,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "1 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Tol",
-        "email": "Tol@gmail.com",
-        "password": "tol1",
-        "userId": 108,
-        "serverId": 129,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "3 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
