@@ -284,6 +284,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "15 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "azka",
+        "email": "azka@gmail.com",
+        "password": "azka123",
+        "userId": 109,
+        "serverId": 130,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "5 - JULI - 2025"
       }
     ],
     "expiredAt": 1769782268764,
