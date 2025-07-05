@@ -212,6 +212,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "5 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "kakadet",
+        "email": "kakadet@gmail.com",
+        "password": "kakadet",
+        "userId": 111,
+        "serverId": 132,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "5 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
