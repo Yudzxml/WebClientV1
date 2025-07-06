@@ -68,5 +68,12 @@
     "harga": "8.000",
     "date": "17 - 06 - 2025",
     "customer": "RULL"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/b54f045c.jpg",
+    "barang": "PANEL PYTREODYLT RAM 4GB",
+    "harga": "6.000",
+    "date": "6 - 07 - 2025",
+    "customer": "KEN"
   }
 ]
