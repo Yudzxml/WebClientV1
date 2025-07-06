@@ -25,6 +25,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - JUNI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "ken",
+        "email": "ken@gmail.com",
+        "password": "ken97",
+        "userId": 113,
+        "serverId": 134,
+        "ram": "4125",
+        "disk": "4125",
+        "cpu": "100",
+        "createdAt": "6 - JULI - 2025"
       }
     ],
     "expiredAt": 1753827732076,
