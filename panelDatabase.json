@@ -214,6 +214,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "5 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "aplah",
+        "email": "aplah@gmail.com",
+        "password": "aplah",
+        "userId": 116,
+        "serverId": 137,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "9 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
