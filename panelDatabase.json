@@ -166,18 +166,6 @@
       },
       {
         "success": true,
-        "username": "Faisal",
-        "email": "Faisal@gmail.com",
-        "password": "faisal1",
-        "userId": 92,
-        "serverId": 112,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "10 - JUNI - 2025"
-      },
-      {
-        "success": true,
         "username": "Caca",
         "email": "Caca@gmail.com",
         "password": "caca1",
