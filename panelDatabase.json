@@ -247,7 +247,21 @@
   },
   "yuki@gmail.com": {
     "UserPassword": "bismillah",
-    "ListPanel": [],
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "Luthfi",
+        "email": "Luthfi@gmail.com",
+        "password": "Luthfi081201",
+        "userId": 118,
+        "serverId": 139,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "12 - JULI - 2025"
+      }
+    ],
     "expiredAt": 1754912629041,
     "updatedAt": 1752320629041
   },
