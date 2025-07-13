@@ -227,6 +227,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "9 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "tes",
+        "email": "tes@gmail.com",
+        "password": "tes",
+        "userId": 119,
+        "serverId": 140,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "13 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
