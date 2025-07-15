@@ -253,6 +253,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "14 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "Ddos",
+        "email": "Ddos@gmail.com",
+        "password": "ddos",
+        "userId": 122,
+        "serverId": 143,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "15 - JULI - 2025"
       }
     ],
     "expiredAt": 1752753054826,
