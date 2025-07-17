@@ -292,6 +292,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "17 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "nzrNR",
+        "email": "nzrNR@gmail.com",
+        "password": "nzrNR",
+        "userId": 125,
+        "serverId": 146,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "17 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
