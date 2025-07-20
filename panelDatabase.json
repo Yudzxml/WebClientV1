@@ -325,6 +325,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "12 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "yuki",
+        "email": "yuki@gmail.com",
+        "password": "yuki123",
+        "userId": 126,
+        "serverId": 147,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "20 - JULI - 2025"
       }
     ],
     "expiredAt": 1754912629041,
