@@ -318,6 +318,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "20 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
+        "username": "alki",
+        "email": "alki@gmail.com",
+        "password": "alki",
+        "userId": 128,
+        "serverId": 149,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "21 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
