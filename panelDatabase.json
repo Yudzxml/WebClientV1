@@ -331,19 +331,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "21 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "zixx",
-        "email": "zixx@gmail.com",
-        "password": "zixx",
-        "userId": 129,
-        "serverId": 150,
-        "ram": "5125",
-        "disk": "5125",
-        "cpu": "120",
-        "createdAt": "22 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
