@@ -5,7 +5,21 @@
   },
   "snayders@gmail.com": {
     "UserPassword": "snayders1122",
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Aljadugh",
+        "email": "Aljadugh@gmail.com",
+        "password": "12345678",
+        "userId": 6,
+        "serverId": 8,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "23 - JULI - 2025"
+      }
+    ]
   },
   "brziko@gmail.com": {
     "UserPassword": "brziko09",
