@@ -1,452 +1,46 @@
 {
   "yudzxml@gmail.com": {
     "UserPassword": "@Yudzxml1122",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "shanzz",
-        "email": "shanzz@gmail.com",
-        "password": "2005",
-        "userId": 61,
-        "serverId": 80,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "21 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "anjayalok",
-        "email": "anjayalok@gmail.com",
-        "password": "2004",
-        "userId": 99,
-        "serverId": 119,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "21 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "ken",
-        "email": "ken@gmail.com",
-        "password": "ken97",
-        "userId": 113,
-        "serverId": 134,
-        "ram": "4125",
-        "disk": "4125",
-        "cpu": "100",
-        "createdAt": "6 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "anjayalok",
-        "email": "anjayalok@gmail.com",
-        "password": "2005",
-        "userId": 120,
-        "serverId": 141,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "13 - JULI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1753827732076,
     "updatedAt": 1751235732076
   },
   "snayders@gmail.com": {
     "UserPassword": "snayders1122",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "bujangdarat",
-        "email": "bujangdarat@gmail.com",
-        "password": "1122",
-        "userId": 47,
-        "serverId": 50,
-        "ram": "8125",
-        "disk": "8125",
-        "cpu": "180"
-      },
-      {
-        "success": true,
-        "username": "amin",
-        "email": "amin@gmail.com",
-        "password": "12345",
-        "userId": 59,
-        "serverId": 78,
-        "ram": "1125",
-        "disk": "1125",
-        "cpu": "40",
-        "createdAt": "20 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "nihtest",
-        "email": "nihtest@gmail.com",
-        "password": "12345",
-        "userId": 66,
-        "serverId": 86,
-        "ram": "5125",
-        "disk": "5125",
-        "cpu": "120",
-        "createdAt": "26 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "rifgans",
-        "email": "rifgans@gmail.com",
-        "password": "rift121",
-        "userId": 98,
-        "serverId": 118,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "19 - JUNI - 2025"
-      }
-    ]
+    "ListPanel": []
   },
   "brziko@gmail.com": {
     "UserPassword": "brziko09",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "haikalll",
-        "email": "haikalll@gmail.com",
-        "password": "haikal20",
-        "userId": 55,
-        "serverId": 72,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "17 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "iam.ecaa",
-        "email": "iam.ecaa@gmail.com",
-        "password": "ecaaww",
-        "userId": 100,
-        "serverId": 121,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "24 - JUNI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1752342507608,
     "updatedAt": 1749750507608
   },
   "obymoods@gmail.com": {
     "UserPassword": "obypro",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "Oby",
-        "email": "Oby@gmail.com",
-        "password": "pollgg",
-        "userId": 45,
-        "serverId": 48,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0"
-      },
-      {
-        "success": true,
-        "username": "Yoi",
-        "email": "Yoi@gmail.com",
-        "password": "10",
-        "userId": 90,
-        "serverId": 110,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "8 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "Caca",
-        "email": "Caca@gmail.com",
-        "password": "caca1",
-        "userId": 93,
-        "serverId": 113,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "10 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "Panz",
-        "email": "Panz@gmail.com",
-        "password": "panz03",
-        "userId": 105,
-        "serverId": 126,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "28 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Zhaa",
-        "email": "Zhaa@gmail.com",
-        "password": "zhaa04",
-        "userId": 107,
-        "serverId": 128,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "1 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "kakadet",
-        "email": "kakadet@gmail.com",
-        "password": "kakadet",
-        "userId": 111,
-        "serverId": 132,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "5 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "botgacor",
-        "email": "botgacor@gmail.com",
-        "password": "botgacor",
-        "userId": 112,
-        "serverId": 133,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "5 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "aplah",
-        "email": "aplah@gmail.com",
-        "password": "aplah",
-        "userId": 116,
-        "serverId": 137,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "9 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Binz",
-        "email": "Binz@gmail.com",
-        "password": "binz",
-        "userId": 123,
-        "serverId": 144,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "16 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Tesbug",
-        "email": "Tesbug@gmail.com",
-        "password": "tesbug",
-        "userId": 124,
-        "serverId": 145,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "17 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "nzrNR",
-        "email": "nzrNR@gmail.com",
-        "password": "nzrNR",
-        "userId": 125,
-        "serverId": 146,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "17 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "skyzounli",
-        "email": "skyzounli@gmail.com",
-        "password": "skyzounli",
-        "userId": 127,
-        "serverId": 148,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "20 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "alki",
-        "email": "alki@gmail.com",
-        "password": "alki",
-        "userId": 128,
-        "serverId": 149,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "21 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Dayvon",
-        "email": "Dayvon@gmail.com",
-        "password": "Dayvon",
-        "userId": 130,
-        "serverId": 151,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "22 - JULI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1755345054826,
     "updatedAt": 1752728672771
   },
   "yuki@gmail.com": {
     "UserPassword": "bismillah",
-    "ListPanel": [
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "Luthfi",
-        "email": "Luthfi@gmail.com",
-        "password": "Luthfi081201",
-        "userId": 118,
-        "serverId": 139,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "12 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "yuki",
-        "email": "yuki@gmail.com",
-        "password": "yuki123",
-        "userId": 126,
-        "serverId": 147,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "20 - JULI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1754912629041,
     "updatedAt": 1752320629041
   },
   "azildansaputra@gmail.com": {
     "UserPassword": "zyldans16127",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "zyl",
-        "email": "zyl@gmail.com",
-        "password": "zyl16127",
-        "userId": 67,
-        "serverId": 87,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "26 - MEI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1748613569247
   },
   "RulBot777@gmail.com": {
     "UserPassword": "RULL STORE777",
-    "ListPanel": [
-      {
-        "success": true,
-        "username": "Rull",
-        "email": "Rull@gmail.com",
-        "password": "RULL STORE777",
-        "userId": 62,
-        "serverId": 81,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "21 - MEI - 2025"
-      },
-      {
-        "success": true,
-        "username": "RulMD",
-        "email": "RulMD@gmail.com",
-        "password": "rul77",
-        "userId": 70,
-        "serverId": 90,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "3 - JUNI - 2025"
-      },
-      {
-        "success": true,
-        "username": "PapoyRul",
-        "email": "PapoyRul@gmail.com",
-        "password": "RULL777",
-        "userId": 103,
-        "serverId": 124,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "27 - JUNI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1751562799481,
     "updatedAt": 1748970799481
   },
   "alip@gmail.com": {
     "UserPassword": "alip123",
-    "ListPanel": [
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "azka",
-        "email": "azka@gmail.com",
-        "password": "azka123",
-        "userId": 109,
-        "serverId": 130,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "5 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private-server.yudzxsnayders.x-vvip.cloud",
-        "username": "alip",
-        "email": "alip@gmail.com",
-        "password": "alip123",
-        "userId": 114,
-        "serverId": 135,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "6 - JULI - 2025"
-      }
-    ],
+    "ListPanel": [],
     "expiredAt": 1769782268764,
     "updatedAt": 1751516170666
   }
