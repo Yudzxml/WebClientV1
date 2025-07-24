@@ -1,7 +1,21 @@
 {
   "yudzxml@gmail.com": {
     "UserPassword": "@Yudzxml1122",
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "shanz",
+        "email": "shanz@gmail.com",
+        "password": "2004",
+        "userId": 7,
+        "serverId": 9,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "24 - JULI - 2025"
+      }
+    ]
   },
   "snayders@gmail.com": {
     "UserPassword": "snayders1122",
