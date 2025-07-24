@@ -70,6 +70,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "24 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "skyzo01",
+        "email": "skyzo01@gmail.com",
+        "password": "skyzo01",
+        "userId": 9,
+        "serverId": 11,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "24 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
