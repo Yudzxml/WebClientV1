@@ -122,6 +122,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "25 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "zanewe",
+        "email": "zanewe@gmail.com",
+        "password": "zanewe",
+        "userId": 13,
+        "serverId": 15,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "25 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
