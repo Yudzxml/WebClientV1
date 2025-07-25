@@ -96,6 +96,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "24 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Tessc",
+        "email": "Tessc@gmail.com",
+        "password": "tessc",
+        "userId": 11,
+        "serverId": 13,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "25 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
