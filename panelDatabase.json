@@ -161,6 +161,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "26 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Death",
+        "email": "Death@gmail.com",
+        "password": "death",
+        "userId": 16,
+        "serverId": 18,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "26 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
