@@ -148,6 +148,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "25 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Dayvon",
+        "email": "Dayvon@gmail.com",
+        "password": "Dayvon29",
+        "userId": 15,
+        "serverId": 17,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "26 - JULI - 2025"
       }
     ],
     "expiredAt": 1755345054826,
