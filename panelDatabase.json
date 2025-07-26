@@ -50,6 +50,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "23 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "brziko",
+        "email": "brziko@gmail.com",
+        "password": "brziko09",
+        "userId": 17,
+        "serverId": 19,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "26 - JULI - 2025"
       }
     ],
     "expiredAt": 1755886527835,
