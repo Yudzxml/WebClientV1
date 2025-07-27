@@ -217,7 +217,21 @@
   },
   "arya@gmail.com": {
     "UserPassword": "arya10",
-    "ListPanel": [],
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Stelar1",
+        "email": "Stelar1@gmail.com",
+        "password": "stelar1",
+        "userId": 18,
+        "serverId": 20,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "27 - JULI - 2025"
+      }
+    ],
     "expiredAt": 1756139568900,
     "updatedAt": 1753547568900
   }
