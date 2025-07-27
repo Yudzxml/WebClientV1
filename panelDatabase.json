@@ -308,6 +308,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "27 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "black2",
+        "email": "black2@gmail.com",
+        "password": "black2",
+        "userId": 25,
+        "serverId": 27,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "27 - JULI - 2025"
       }
     ],
     "expiredAt": 1756139568900,
