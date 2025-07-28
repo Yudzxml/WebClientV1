@@ -460,6 +460,20 @@
   "otax@gmail.com": {
     "UserPassword": "otax10",
     "expiredAt": 1753782883757,
-    "ListPanel": []
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Xrelly",
+        "email": "Xrelly@gmail.com",
+        "password": "xrelly",
+        "userId": 36,
+        "serverId": 38,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "28 - JULI - 2025"
+      }
+    ]
   }
 }
