@@ -387,6 +387,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "28 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "aeternyx3",
+        "email": "aeternyx3@gmail.com",
+        "password": "aeternyx3",
+        "userId": 31,
+        "serverId": 33,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "28 - JULI - 2025"
       }
     ],
     "expiredAt": 1756139568900,
