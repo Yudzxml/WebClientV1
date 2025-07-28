@@ -426,6 +426,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "28 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "infinity3",
+        "email": "infinity3@gmail.com",
+        "password": "infinity3",
+        "userId": 34,
+        "serverId": 36,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "28 - JULI - 2025"
       }
     ],
     "expiredAt": 1756139568900,
