@@ -250,6 +250,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "28 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "alip",
+        "email": "alip@gmail.com",
+        "password": "alip123",
+        "userId": 38,
+        "serverId": 40,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "29 - JULI - 2025"
       }
     ],
     "expiredAt": 1769782268764,
