@@ -361,19 +361,6 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "29 - JULI - 2025"
-      },
-      {
-        "success": true,
-        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
-        "username": "otax1",
-        "email": "otax1@gmail.com",
-        "password": "otax1",
-        "userId": 42,
-        "serverId": 44,
-        "ram": "0",
-        "disk": "0",
-        "cpu": "0",
-        "createdAt": "29 - JULI - 2025"
       }
     ],
     "expiredAt": 1756139568900,
