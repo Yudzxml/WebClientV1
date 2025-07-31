@@ -322,6 +322,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "31 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "stelar1",
+        "email": "stelar1@gmail.com",
+        "password": "stelar1",
+        "userId": 47,
+        "serverId": 49,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "31 - JULI - 2025"
       }
     ],
     "expiredAt": 1756139568900,
