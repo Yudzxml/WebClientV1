@@ -32,6 +32,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "23 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Novit",
+        "email": "Novit@gmail.com",
+        "password": "121123",
+        "userId": 53,
+        "serverId": 55,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "31 - JULI - 2025"
       }
     ]
   },
