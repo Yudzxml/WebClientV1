@@ -301,6 +301,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "29 - JULI - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "scorpion",
+        "email": "scorpion@gmail.com",
+        "password": "scorpion",
+        "userId": 61,
+        "serverId": 63,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "5 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1769782268764,
