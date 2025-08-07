@@ -277,6 +277,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "7 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "oyo",
+        "email": "oyo@gmail.com",
+        "password": "oyo",
+        "userId": 68,
+        "serverId": 70,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "7 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1755345054826,
