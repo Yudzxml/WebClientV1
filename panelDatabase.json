@@ -516,6 +516,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "7 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "bot",
+        "email": "bot@gmail.com",
+        "password": "bot",
+        "userId": 69,
+        "serverId": 71,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "7 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1756139568900,
