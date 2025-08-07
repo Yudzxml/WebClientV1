@@ -503,6 +503,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "6 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Win",
+        "email": "Win@gmail.com",
+        "password": "win",
+        "userId": 67,
+        "serverId": 69,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "7 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1756139568900,
