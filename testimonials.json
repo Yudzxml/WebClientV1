@@ -75,5 +75,12 @@
     "harga": "6.000",
     "date": "6 - 07 - 2025",
     "customer": "KEN"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/Yudzxml/UploaderV2/main/tmp/62074073.jpg",
+    "barang": "PAID EDIT",
+    "harga": "50.000",
+    "date": "11 - 08 - 2025",
+    "customer": "DILA"
   }
 ]
