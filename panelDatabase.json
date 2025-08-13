@@ -89,7 +89,21 @@
   },
   "brziko@gmail.com": {
     "UserPassword": "brziko09",
-    "ListPanel": [],
+    "ListPanel": [
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "haikal",
+        "email": "haikal@gmail.com",
+        "password": "haikal",
+        "userId": 75,
+        "serverId": 77,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "13 - AGUSTUS - 2025"
+      }
+    ],
     "expiredAt": 1755886527835,
     "updatedAt": 1753294527835
   },
