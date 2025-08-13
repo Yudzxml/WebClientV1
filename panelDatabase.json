@@ -102,6 +102,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "13 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "testi",
+        "email": "testi@gmail.com",
+        "password": "testi",
+        "userId": 76,
+        "serverId": 78,
+        "ram": "5125",
+        "disk": "5125",
+        "cpu": "120",
+        "createdAt": "13 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1755886527835,
