@@ -694,6 +694,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "20 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Pipi",
+        "email": "Pipi@gmail.com",
+        "password": "pipi",
+        "userId": 83,
+        "serverId": 85,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "20 - AGUSTUS - 2025"
       }
     ],
     "updatedAt": 1753772745626
