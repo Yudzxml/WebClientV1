@@ -356,6 +356,19 @@
         "disk": "0",
         "cpu": "0",
         "createdAt": "9 - AGUSTUS - 2025"
+      },
+      {
+        "success": true,
+        "loginUrl": "https://private.yudzxsnayders.x-vvip.cloud",
+        "username": "Gabud",
+        "email": "Gabud@gmail.com",
+        "password": "gabud",
+        "userId": 87,
+        "serverId": 89,
+        "ram": "0",
+        "disk": "0",
+        "cpu": "0",
+        "createdAt": "21 - AGUSTUS - 2025"
       }
     ],
     "expiredAt": 1758370971877,
