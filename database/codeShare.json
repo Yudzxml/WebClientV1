@@ -1,13 +1,5 @@
 [
   {
-    "id": "nodejs-event-loop",
-    "title": "NodeJS Event Loop",
-    "language": "javascript",
-    "author": "Yudzxml",
-    "description": "Penjelasan tentang cara kerja event loop pada NodeJS.",
-    "code": "console.log('Event Loop berjalan...');"
-  },
-  {
     "id": "python-list-comprehension",
     "title": "Python List Comprehension",
     "language": "python",
