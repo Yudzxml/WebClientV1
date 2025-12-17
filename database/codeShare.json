@@ -33,7 +33,7 @@
   },
   {
     "id": "anime-indo",
-    "title": "Anime Indo ",
+    "title": "ANIME INDO",
     "language": "javascript",
     "author": "Yudzxml",
     "description": "Class AnimeIndo adalah web scraper Node.js berbasis Cheerio untuk mengambil data anime dari anime-indo.lol, mencakup home, detail anime, genre, search, streaming episode, anime list, dan movie, lalu mengubahnya menjadi data terstruktur siap API, btw yg schedule itu lgi error di web nya jdi ga Admin taro.",
